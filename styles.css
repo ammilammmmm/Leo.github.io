@@ -71,7 +71,7 @@ header {
 
 .club-text {
   padding: 16px 28px;
-  background-color: rgba(0, 0, 0, 0.6); /* abu gelap transparan */
+  background-color: rgba(0, 0, 0, 0.6); 
   color: white;
   font-weight: bold;
   font-size: 20px;
