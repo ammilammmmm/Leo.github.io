@@ -69,6 +69,30 @@ header {
     gap: 50px;
 }
 
+.club-text {
+  padding: 16px 28px;
+  background-color: rgba(0, 0, 0, 0.6); /* abu gelap transparan */
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+  text-decoration: none;
+  margin-top: -120px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  display: inline-block;
+  text-align: center;
+}
+
+.club-text:hover {
+  background-color: #ffcc00; /* kuning */
+  color: black;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
 button {
     padding: 0;
     border-radius: 3rem;
